@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T8RDzoZm7mo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FernandoFlosi\\source\\repos\\fflosi\\WhisperAPI\\WhisperPipe\\WhisperPipe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FernandoFlosi\\.nuget\\packages\\comlightinterop\\1.3.7\\comlightinterop.1.3.7.nupkg.sha512"
+  ],
+  "logs": []
+}

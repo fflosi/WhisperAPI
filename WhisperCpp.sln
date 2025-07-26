@@ -52,6 +52,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhisperPS", "WhisperPS\Whis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompressTables", "Tools\CompressTables\CompressTables.csproj", "{61CA4055-77F4-47DA-933E-175FEC28C6FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhisperPipe", "WhisperPipe\WhisperPipe.csproj", "{0118F654-0862-A3B2-1F7D-002BC43D0AD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -114,6 +116,10 @@ Global
 		{61CA4055-77F4-47DA-933E-175FEC28C6FA}.Debug|x64.Build.0 = Debug|Any CPU
 		{61CA4055-77F4-47DA-933E-175FEC28C6FA}.Release|x64.ActiveCfg = Release|Any CPU
 		{61CA4055-77F4-47DA-933E-175FEC28C6FA}.Release|x64.Build.0 = Release|Any CPU
+		{0118F654-0862-A3B2-1F7D-002BC43D0AD0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0118F654-0862-A3B2-1F7D-002BC43D0AD0}.Debug|x64.Build.0 = Debug|Any CPU
+		{0118F654-0862-A3B2-1F7D-002BC43D0AD0}.Release|x64.ActiveCfg = Release|Any CPU
+		{0118F654-0862-A3B2-1F7D-002BC43D0AD0}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
